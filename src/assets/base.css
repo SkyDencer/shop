@@ -1,0 +1,10 @@
+*{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-decoration: none;
+  color: inherit;
+}
+a:link { color: blue; }
+ 
+a:visited { color: rgb(128, 0, 0); }
